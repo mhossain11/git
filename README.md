@@ -1,6 +1,7 @@
 Git install হয়েছে কি না তা cmd তে চেক করতে পারেন 
  
 Git এ সাধারন্ত ২ ভাবে কাজ করা যায় – 
+
 I.	Git GUI 		
 II.	Git Terminal (Software engineer terminal ব্যবহার করে) 
 
@@ -10,6 +11,7 @@ Github= server
 
 
 Git 2 ভাবে কাজ করেঃ-
+
 I.	Local (নিজের Pc থেকে file এ কাজ করা) 
 II.	Remote (Cloud)
 -----------------------------------------------------------------------------------
