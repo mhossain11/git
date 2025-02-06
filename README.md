@@ -13,7 +13,9 @@ Github= server
 Git 2 ভাবে কাজ করেঃ-
 
 I.	Local (নিজের Pc থেকে file এ কাজ করা) 
+
 II.	Remote (Cloud)
+
 -----------------------------------------------------------------------------------
 	Working directory -  Pc folder
 	Repository – git যোগ করে file এর সাথে তখন 
