@@ -165,6 +165,8 @@ working থেকে stage  ----- all
 
 
 -----------Account Change----------------
+- git config --list --global [account এর Global email and name list দেখাবে ]
+- git config --list --local [account এর local email and name list দেখাবে ]
 
 Tesk bar এ -> Search -> credential manager এ গিয়ে git account delet করা দিতে হবে। 
 
